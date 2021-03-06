@@ -2,7 +2,7 @@
 
 Python implementations of coding exercises in the book. Might attempt in other languages that I'd like to learn as well.
 
-
+Link to the DDG project page: https://www.cs.cmu.edu/~kmcrane/Projects/DDG/
 ## BibTeX Citation
 
 @inproceedings{Crane:2013:DGP,
